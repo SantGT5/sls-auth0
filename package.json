@@ -1,0 +1,13 @@
+{
+  "name": "sls-auth-service",
+  "version": "1.0.0",
+  "author": "Qhoda",
+  "description": "Auth0 micro-service",
+  "license": "MIT",
+  "dependencies": {
+    "jsonwebtoken": "^9.0.0"
+  },
+  "devDependencies": {
+    "serverless-bundle": "^5.5.0"
+  }
+}
